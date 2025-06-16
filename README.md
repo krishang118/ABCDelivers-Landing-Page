@@ -32,7 +32,7 @@ npm run dev
 
 - Responsive design
 - RCB-themed UI elements
-- Featured signature dishes
+- Featured signature dishes and more
 
 ## Contributing
 
