@@ -10,7 +10,7 @@ A simple, but modern landing page for a Royal Challengers Bangalore themed resta
 
 ### Setup after Cloning the Repository
 ```bash
-# Firstly, Install the dependencies.
+# Firstly, install the dependencies.
 npm install
 
 # Then, start the development server (runs on http://localhost:8080).
