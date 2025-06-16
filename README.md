@@ -1,4 +1,4 @@
-# ABCDelivers (RCB Themed Restaurant) Landing Page
+# ABCDelivers Landing Page
 
 A simple, but modern landing page for a Royal Challengers Bangalore themed restaurant, called 'ABCDelivers'.
 
