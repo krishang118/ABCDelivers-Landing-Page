@@ -2,7 +2,7 @@
 
 A simple but modern landing page for a Royal Challengers Bangalore themed restaurant, called 'ABCDelivers'.
 
-## Quick Start
+## How to Run
 
 ### Prerequisites
 - Node.js (v18 or higher)
